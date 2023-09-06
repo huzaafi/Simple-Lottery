@@ -1,4 +1,4 @@
-**Simple Lottery Smart Contract**
+# Simple Lottery Smart Contract
 
 **Introduction:**
 The Simple Lottery Smart Contract is an advanced blockchain application that had been meticulously developed in the Remix IDE using the solidity smart contract programming language. Users have the exciting opportunity to participate in a lottery and perhaps win wonderful benefits thanks to this creative contract.
